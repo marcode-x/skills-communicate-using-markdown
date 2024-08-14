@@ -7,3 +7,7 @@
 def epic_doggie():
   return doggie
 ```
+
+- [ ] Prepare cert
+- [ ] Answer questions
+- [ ] pray
